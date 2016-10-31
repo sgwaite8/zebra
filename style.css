@@ -1,0 +1,19 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.hero {
+  background-image: url('images/bg-nyc.png');
+}
+
+h1 {
+  font-size: 70px;
+  color: #FFFFFF;
+  line-height: 70px;
+}
+
+.herotext {
+  font-size: 18px;
+  color: #FFFFFF;
+  line-height: 20px;
+}
